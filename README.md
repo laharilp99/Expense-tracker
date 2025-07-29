@@ -12,6 +12,9 @@ Objectives:
 5.	To design a Pie chart that allows users to visualize their spending habits.
    
 Technologies Used:
+
 ●	Programming Language: Python
+
 ●	Libraries & Frameworks: Flask ,SQLlite3 ,Matplotlib/Seaborn ,Datetime
+
 ●	Dataset: Open-source expense dataset
